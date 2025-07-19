@@ -90,32 +90,6 @@ export default function Hero() {
             </div>
           </div>
 
-          {/* Right Visual Content */}
-          <div className="relative hidden lg:block">
-            <div className="relative">
-              {/* Main Image Container */}
-              <div className="relative overflow-hidden rounded-2xl lg:rounded-3xl shadow-2xl transform rotate-3 hover:rotate-0 transition-transform duration-500">
-                <img
-                  src="public\Cualquier ocasion (3).jpeg"
-                  alt="Donas artesanales decoradas"
-                  className="w-full h-80 lg:h-96 object-cover"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-pink-500/20 via-transparent to-transparent" />
-              </div>
-             
-              
-
-              {/* Decorative Elements */}
-              <div className="absolute -top-3 lg:-top-4 right-1/4 w-6 h-6 lg:w-8 lg:h-8 bg-gradient-to-r from-yellow-400 to-orange-400 rounded-full shadow-lg animate-bounce" style={{ animationDelay: '0.5s' }}>
-                <div className="w-full h-full flex items-center justify-center text-white text-xs lg:text-sm">🍩</div>
-              </div>
-              
-              <div className="absolute -bottom-3 lg:-bottom-4 left-1/4 w-6 h-6 lg:w-8 lg:h-8 bg-gradient-to-r from-pink-400 to-rose-400 rounded-full shadow-lg animate-bounce" style={{ animationDelay: '1s' }}>
-                <div className="w-full h-full flex items-center justify-center text-white text-xs lg:text-sm">✨</div>
-              </div>
-            </div>
-          </div>
-        </div>
 
         {/* Scroll Indicator */}
         <div className="absolute bottom-4 sm:bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
