@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight, Sparkles, Star } from 'lucide-react';
+import { ArrowRight, Star } from 'lucide-react';
 
 export default function Hero() {
   const scrollToGallery = () => {
@@ -90,6 +90,28 @@ export default function Hero() {
             </div>
           </div>
 
+          {/* Right Content - Image */}
+          <div className="hidden lg:block">
+            <div className="relative">
+              <div className="relative z-10 overflow-hidden rounded-3xl shadow-2xl">
+                <img
+                  src="https://images.pexels.com/photos/2191622/pexels-photo-2191622.jpeg?auto=compress&cs=tinysrgb&w=600&h=800&dpr=2"
+                  alt="Donas artesanales gourmet"
+                  className="w-full h-96 object-cover transform hover:scale-105 transition-transform duration-700"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-pink-500/20 to-transparent" />
+              </div>
+              
+              {/* Floating Elements */}
+              <div className="absolute -top-4 -right-4 bg-gradient-to-r from-yellow-400 to-orange-400 text-white p-3 rounded-full shadow-lg animate-bounce">
+                <span className="text-xl">✨</span>
+              </div>
+              <div className="absolute -bottom-4 -left-4 bg-gradient-to-r from-pink-400 to-rose-400 text-white p-3 rounded-full shadow-lg animate-bounce" style={{ animationDelay: '0.5s' }}>
+                <span className="text-xl">🍩</span>
+              </div>
+            </div>
+          </div>
+        </div>
 
         {/* Scroll Indicator */}
         <div className="absolute bottom-4 sm:bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
