@@ -95,7 +95,7 @@ export default function Hero() {
             <div className="relative">
               <div className="relative z-10 overflow-hidden rounded-3xl shadow-2xl">
                 <img
-                  src="public\Cualquier ocasion (3).jpeg"
+                  src="/Cualquier ocasion (3).jpeg"
                   alt="Donas artesanales gourmet"
                   className="w-full h-96 object-cover transform hover:scale-105 transition-transform duration-700"
                 />
