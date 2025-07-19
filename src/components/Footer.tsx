@@ -40,7 +40,7 @@ export default function Footer() {
             <h4 className="font-semibold mb-3 lg:mb-4 text-sm lg:text-base">Síguenos</h4>
             <div className="flex justify-center md:justify-end space-x-3 lg:space-x-4">
               <a
-                href="https://www.facebook.com/algodulce"
+                href="https://www.facebook.com/people/Las-Madonitas/61573020998804/?mibextid=wwXIfr&rdid=BW0LmIxB4c8S98tS&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16mz2JCnym%2F%3Fmibextid%3DwwXIfr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-8 h-8 lg:w-10 lg:h-10 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
@@ -51,7 +51,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://www.tiktok.com/@algodulce"
+                href="https://www.tiktok.com/@algodulce_lasmadonitas76"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-8 h-8 lg:w-10 lg:h-10 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
