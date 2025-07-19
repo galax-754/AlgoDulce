@@ -85,7 +85,7 @@ export default function Contact() {
                   <h4 className="font-semibold text-gray-800 mb-2 text-sm lg:text-base">TikTok</h4>
                   <p className="text-xs lg:text-sm text-gray-600 mb-3 lg:mb-4">Ve nuestras creaciones en video</p>
                   <a
-                    href="https://www.tiktok.com/@algodulce"
+                    href="https://www.tiktok.com/@algodulce_lasmadonitas76"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center px-3 lg:px-4 py-2 bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 hover:from-pink-600 hover:via-purple-600 hover:to-blue-600 text-white font-medium rounded-full transition-all duration-300 transform hover:scale-105 text-xs lg:text-sm"
@@ -104,7 +104,7 @@ export default function Contact() {
                   <h4 className="font-semibold text-gray-800 mb-2 text-sm lg:text-base">Facebook</h4>
                   <p className="text-xs lg:text-sm text-gray-600 mb-3 lg:mb-4">Síguenos para más contenido</p>
                   <a
-                    href="https://www.facebook.com/algodulce"
+                    href="https://www.facebook.com/people/Las-Madonitas/61573020998804/?mibextid=wwXIfr&rdid=BW0LmIxB4c8S98tS&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16mz2JCnym%2F%3Fmibextid%3DwwXIfr"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center px-3 lg:px-4 py-2 bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white font-medium rounded-full transition-all duration-300 transform hover:scale-105 text-xs lg:text-sm"
