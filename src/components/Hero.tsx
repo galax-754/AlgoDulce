@@ -96,7 +96,7 @@ export default function Hero() {
               {/* Main Image Container */}
               <div className="relative overflow-hidden rounded-2xl lg:rounded-3xl shadow-2xl transform rotate-3 hover:rotate-0 transition-transform duration-500">
                 <img
-                  src="public/Cualquier ocasion (3).jpeg"
+                  src="public\Cualquier ocasion (3).jpeg"
                   alt="Donas artesanales decoradas"
                   className="w-full h-80 lg:h-96 object-cover"
                 />
